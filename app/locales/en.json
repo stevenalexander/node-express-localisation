@@ -1,0 +1,6 @@
+{
+	"Hello {name}": "Hello {name}",
+	"Hello {name}, how was your %s?": "Hello {name}, how was your %s?",
+	"Localisation example": "Localisation example",
+	"This is some static text which would be edited directly on the template": "This is some static text which would be edited directly on the template"
+}

@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<h1>{{ __(title) }}</h1>
+
+<p>
+{{ __('This is some static text which would be edited directly on the template') }}
+</p>
+
+<p>{{ message1 }}</p>
+<p>{{ message2 }}</p>
+<p>{{ message3 }}</p>
+
+{% endblock %}

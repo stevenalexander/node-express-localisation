@@ -1,0 +1,6 @@
+{
+  "Hello {name}": "Helo {name}",
+  "Hello {name}, how was your %s?": "Helo {name}, sut oedd eich %s?",
+  "Localisation example": "Enghraifft Lleoleiddio",
+  "This is some static text which would be edited directly on the template": "Mae hyn yn rhywfaint o destun sefydlog a fyddai'n cael eu golygu yn uniongyrchol ar y templed"
+}
